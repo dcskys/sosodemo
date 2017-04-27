@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "E:\\Android\\me\\sosodemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_geofence.xml",
+        "source": "E:\\Android\\me\\sosodemo\\app\\src\\main\\res\\layout\\dialog_geofence.xml"
+    },
+    {
+        "merged": "E:\\Android\\me\\sosodemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base_demo.xml",
+        "source": "E:\\Android\\me\\sosodemo\\app\\src\\main\\res\\layout\\activity_base_demo.xml"
+    },
+    {
+        "merged": "E:\\Android\\me\\sosodemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_demo_map.xml",
+        "source": "E:\\Android\\me\\sosodemo\\app\\src\\main\\res\\layout\\activity_demo_map.xml"
+    },
+    {
+        "merged": "E:\\Android\\me\\sosodemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_battery_monitor.xml",
+        "source": "E:\\Android\\me\\sosodemo\\app\\src\\main\\res\\layout\\activity_battery_monitor.xml"
+    },
+    {
+        "merged": "E:\\Android\\me\\sosodemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_geofence_editor.xml",
+        "source": "E:\\Android\\me\\sosodemo\\app\\src\\main\\res\\layout\\activity_geofence_editor.xml"
+    },
+    {
+        "merged": "E:\\Android\\me\\sosodemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_demo.xml",
+        "source": "E:\\Android\\me\\sosodemo\\app\\src\\main\\res\\layout\\activity_demo.xml"
+    },
+    {
+        "merged": "E:\\Android\\me\\sosodemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sdk_info.xml",
+        "source": "E:\\Android\\me\\sosodemo\\app\\src\\main\\res\\layout\\activity_sdk_info.xml"
+    },
+    {
+        "merged": "E:\\Android\\me\\sosodemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_template.xml",
+        "source": "E:\\Android\\me\\sosodemo\\app\\src\\main\\res\\layout\\activity_template.xml"
+    },
+    {
+        "merged": "E:\\Android\\me\\sosodemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android\\me\\sosodemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\me\\sosodemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_geofence_event.xml",
+        "source": "E:\\Android\\me\\sosodemo\\app\\src\\main\\res\\layout\\activity_geofence_event.xml"
+    },
+    {
+        "merged": "E:\\Android\\me\\sosodemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_demo2.xml",
+        "source": "E:\\Android\\me\\sosodemo\\app\\src\\main\\res\\layout\\activity_demo2.xml"
+    },
+    {
+        "merged": "E:\\Android\\me\\sosodemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setmintime.xml",
+        "source": "E:\\Android\\me\\sosodemo\\app\\src\\main\\res\\layout\\activity_setmintime.xml"
+    },
+    {
+        "merged": "E:\\Android\\me\\sosodemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "E:\\Android\\me\\sosodemo\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    }
+]

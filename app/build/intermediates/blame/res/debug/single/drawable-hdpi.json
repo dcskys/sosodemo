@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android\\me\\sosodemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mark_location.png",
+        "source": "E:\\Android\\me\\sosodemo\\app\\src\\main\\res\\drawable-hdpi\\mark_location.png"
+    },
+    {
+        "merged": "E:\\Android\\me\\sosodemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\Android\\me\\sosodemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\me\\sosodemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sendtocar_balloon.png",
+        "source": "E:\\Android\\me\\sosodemo\\app\\src\\main\\res\\drawable-hdpi\\sendtocar_balloon.png"
+    }
+]

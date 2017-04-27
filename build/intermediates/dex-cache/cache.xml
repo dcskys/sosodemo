@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android\me\sosodemo\app\libs\TencentLocationSDK_v4.0_r139747.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a0981c8c4b5336c82ac2caf280c7e13373a8bf7b">
+        <dex dex="E:\Android\me\sosodemo\app\build\intermediates\pre-dexed\debug\TencentLocationSDK_v4.0_r139747_5d4f53a897405a2e98c2cfe271d50b4f71c5da25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidSdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\Android\me\sosodemo\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_010ce83711a0d1de704b008c1919948a9cd54095.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\me\sosodemo\app\libs\TencentMapSDK_Raster_v1.0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="232c8c3964113f0f39a9f4cdd3473d5075d188aa">
+        <dex dex="E:\Android\me\sosodemo\app\build\intermediates\pre-dexed\debug\TencentMapSDK_Raster_v1.0.6_04a1c157cb187d76b660c8d194997a5cdc8af0a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\me\sosodemo\app\libs\my_commons.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="468b0d7040e0ea011f2cacc47b80e2b36bfd79d5">
+        <dex dex="E:\Android\me\sosodemo\app\build\intermediates\pre-dexed\debug\my_commons_8a11389d83693fc6ad63d41e660c2e523b23b8f7.jar" />
+    </item>
+
+</items>

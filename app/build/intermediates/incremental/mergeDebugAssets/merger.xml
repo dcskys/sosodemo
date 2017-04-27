@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\Android\me\sosodemo\app\src\main\assets"><file name="demos.json" path="E:\Android\me\sosodemo\app\src\main\assets\demos.json"/></source><source path="E:\Android\me\sosodemo\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\Android\me\sosodemo\app\src\debug\assets"/></dataSet></merger>
